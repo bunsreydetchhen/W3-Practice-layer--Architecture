@@ -1,0 +1,15 @@
+{
+    "questions": [{
+        "title":"What is the color of banana?",
+        "choices": ["Yellow", "Pink", "White"],
+        "goodChoice":"Yellow",
+        "points": 10
+        },
+        {
+        "title":"What is the color of strawberry?",
+        "choices":["Red", "Pink", "Purple"],
+        "goodChoice":"Red",
+        "points":50
+        }
+    ]
+}
